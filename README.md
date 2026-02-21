@@ -3,17 +3,26 @@
 # القران الكريم
 
 ## القران الكريم كامل يدون انترنيت
+## 📸 صور 
 
-![icon](Example/الواجهة.png)
+| Editor Interface | Screenshots |
+| :---: | :---: |
+| ![icon](Example/تفسير.png) | ![icon](Example/الواجهة.png)  |
+| ![icon](Example/السور.png) | ![icon](Example/الادكار.png)  |
+| ![icon](Example/2.png)   | ![icon](Example/البحت.png)   |
 
-![icon](Example/صورالسور.png)
+## التحميل 
+![icon](Example/icon.ico)
 
-![icon](Example/السور.png)
 
-![icon](Example/تفسير_الايات.png)
+---
+© 2026 Yassir27 
 
-![icon](Example/الادكار.png)
+<div align="center">
+<a href="#">
+    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Yasser%2027&desc=build%20the%20future&descAlign=50&descAlignY=62"/>
+</a>
+<br>
 
-![icon](Example/قائمة_الادكار.png)
 
-![icon](Example/البحت.png)
+
