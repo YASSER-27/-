@@ -12,7 +12,7 @@
 | ![icon](Example/2.png)   | ![icon](Example/البحت.png)   |
 
 ## التحميل 
-<a href="رابط_صفحة_التجميل_هنا">
+<a href="https://github.com/YASSER-27/-/releases">
    <img src="Example/icon.ico" alt="أيقونة التجميل" style="width:50px; height:50px;">
 </a>
 
