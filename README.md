@@ -1,9 +1,9 @@
 ![icon](Example/icon.ico)
 
-# القران الكريم
+# القران الكريم - Holy Quran
 
-## القران الكريم كامل يدون انترنيت
-## 📸 صور البرنامج 
+## القران الكريم كامل يدون انترنيت - Full Holy Quran - Offline Version
+## 📸 صور البرنامج - 📸 App Screenshots 
 
 | Editor Interface | Screenshots |
 | :---: | :---: |
@@ -11,8 +11,8 @@
 | ![icon](Example/السور.png) | ![icon](Example/الادكار.png)  |
 | ![icon](Example/2.png)   | ![icon](Example/البحت.png)   |
 
-## التحميل 
-<a href="https://github.com/YASSER-27/-/releases">
+## التحميل اضغط على الصورة - Click the icon below to Download 
+<a href="https://github.com/YASSER-27/Quran-Offline-Pc/releases">
    <img src="Example/icon.ico" alt="أيقونة التجميل" style="width:50px; height:50px;">
 </a>
 
